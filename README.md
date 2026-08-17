@@ -1,4 +1,4 @@
-<h2 align="center">Hi My name is Prustide B. — Finance & Computer Science student, aspiring Network Engineer, and Entrepreneur</h2>
+<h2 align="center">Hi My name is Prustide B. — Finance & Computer Science Graduate, aspiring FP&A Analyst, with a strong passion for Network Engineering and bridging the gap between tech and finance </h2>
 
 ---
 
