@@ -1,4 +1,4 @@
-<h2 align="center">Hi My name is Prustide B. — Finance & Computer Science Graduate, aspiring FP&A Analyst, with a strong passion for Network Engineering and bridging the gap between tech and finance </h2>
+<h2 align="center">Hi My name is Prustide B. — Finance & Computer Science Graduate, with a strong passion for Finance and Technology Bridging the gap between tech and finance </h2>
 
 👋 About Me
 
@@ -13,7 +13,7 @@ I'm naturally curious and enjoy challenging myself with things that require both
 ## 🔭 Current Focus
 - Building a stronger foundation in finance, financial analysis, and investing
 - Strengthening my technical skills in Python, automation, and data analysis
-- Studying network engineering and Cisco networking
+- IT troubleshooting and networking
 - Learning how technology can be used to solve real-world business problems
 - Continuing to develop professionally and personally
 
